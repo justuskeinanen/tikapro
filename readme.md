@@ -1,8 +1,10 @@
 Keskustelusovellus:
 ==================
--keskustelualueet
--keskusteluketjut
--käyttäjät
--ylläpitäjä
--viestit
--salainen alue, määritellyillä käyttäjillä pääsy
+<ul>
+  <li>keskustelualueet</li>
+  <li>keskusteluketjut</li>
+  <li>käyttäjät</li>
+  <li>ylläpitäjä</li>
+  <li>viestit</li>
+  <li>salainen alue </li>
+</ul>
