@@ -12,9 +12,9 @@ Keskustelusovellus:
 
 <h3> linkki tietokannan malliin: </h3>
 <a href=https://dbdiagram.io/d/605267bcecb54e10c33bf228>tietokantamalli</a>
-<br>
+
 <ul>
-  <lh>Vaatimuksia: </lh>
+  <lh><h3>Vaatimuksia:</h3> </lh>
   <li>Käyttäjänä haluan pystyä luomaan itselleni käyttäjätunnuksen, jolla turvallisesti kirjautua sisään ja ulos.</li>
   <li></li>
   
